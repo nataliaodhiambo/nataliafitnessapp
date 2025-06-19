@@ -13,7 +13,6 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("HELLO WORLD - SWIFT FITNESS APP")
         }
         .padding()
     }
